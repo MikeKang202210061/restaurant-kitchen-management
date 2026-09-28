@@ -1,0 +1,13 @@
+MainCourse|1|Kung Pao Chicken|Spicy chicken with peanuts|12.99|15|Chinese
+MainCourse|2|Spaghetti Bolognese|Classic Italian pasta with meat sauce|14.99|20|Italian
+MainCourse|3|Grilled Salmon|Fresh salmon with lemon butter|18.99|25|American
+MainCourse|4|Beef Steak|Medium-rare ribeye steak|22.99|30|American
+MainCourse|5|Mapo Tofu|Spicy tofu with minced pork|10.99|12|Chinese
+Beverage|6|Iced Lemon Tea|Fresh lemon tea with ice|3.99|3|true
+Beverage|7|Hot Coffee|Freshly brewed black coffee|4.49|5|false
+Beverage|8|Orange Juice|Freshly squeezed orange juice|5.99|3|true
+Beverage|9|Green Tea|Traditional Chinese green tea|3.49|4|false
+Dessert|10|Chocolate Cake|Rich dark chocolate layer cake|6.99|10|true
+Dessert|11|Ice Cream Sundae|Vanilla ice cream with toppings|5.49|52|false
+Dessert|12|Mango Pudding|Creamy mango flavored pudding|4.99|8|false
+MainCourse|13|1|1|1.0|1|1

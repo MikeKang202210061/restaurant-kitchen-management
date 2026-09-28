@@ -1,0 +1,16 @@
+ORDER|1|Zhang Wei|Completed|2026-04-28 12:30:00|2026-04-28 13:05:00
+ITEM|1|2|Completed|extra spicy
+ITEM|6|3|Completed|no sugar
+ORDER|2|Li Ming|Completed|2026-04-28 18:45:00|2026-04-28 19:20:00
+ITEM|4|1|Completed|medium rare
+ITEM|11|2|Completed|extra chocolate
+ORDER|3|Wang Fang|Completed|2026-04-29 11:00:00|2026-04-29 11:35:00
+ITEM|5|1|Completed|less spicy
+ORDER|4|Chen Jie|Completed|2026-05-01 12:15:00|2026-05-01 12:50:00
+ITEM|3|1|Completed|no lemon
+ITEM|4|2|Pending|well done
+ITEM|6|2|Pending|less ice
+ITEM|5|3|In Progress|extra spicy
+ORDER|5|111|Completed|2026-05-01 23:42:53|2026-05-01 23:43:41
+ITEM|2|1|Completed|1
+ITEM|2|1|Completed|1
