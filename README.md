@@ -1,4 +1,4 @@
-# Restaurant Operations Manager
+# Restaurant Kitchen Management
 
 A Java OOP desktop application that models restaurant operations through a Swing interface. The project separates domain models, GUI components, persistence utilities, and custom exceptions.
 
